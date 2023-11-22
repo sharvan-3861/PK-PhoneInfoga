@@ -6,7 +6,7 @@ PK-PhoneInfoga is a powerful tool designed to provide comprehensive information 
 
 ## AVAILABLE ON :
 
-* Termux
+* Linux
 
 ### REQUIREMENTS :
 * internet
