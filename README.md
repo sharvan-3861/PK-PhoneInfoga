@@ -28,7 +28,7 @@ Feel the power of PK-PhoneInfoga as you effortlessly gather detailed information
 
 ## CONNECT WITH US :
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rb.gy/pio0nl)
-[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/LDebKQXEwoNIGfrsnHoMMr)
+[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/IwzEWrop0xUIgWR0Hbc0Zk)
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
