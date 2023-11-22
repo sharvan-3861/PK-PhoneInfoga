@@ -20,7 +20,7 @@ PK-PhoneInfoga is a powerful tool designed to provide comprehensive information 
 * `./PK-PhoneInfoga`
 
 ## SCREEN SHOTS [Linux]
-![Screenshot_20231122_095824](https://github.com/demon-xhu/PK-PhoneInfoga/assets/125611055/ca4fdd71-3a25-4ccf-a724-9af69ac53abc)
+![Screenshot_20231122_110220](https://github.com/demon-xhu/PK-PhoneInfoga/assets/125611055/39807409-48fb-4e21-afb5-f55ace6164c0)
 
 Feel the power of PK-PhoneInfoga as you effortlessly gather detailed information for any Pakistan phone number.
 
