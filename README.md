@@ -11,8 +11,6 @@ PK-PhoneInfoga is a powerful tool designed to provide comprehensive information 
 ### REQUIREMENTS :
 * internet
 * storage 22.13 MiB MB
-* python
-
 
 ## INSTALLATION [Termux/All Linux distro] :
 
