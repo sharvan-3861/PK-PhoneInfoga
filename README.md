@@ -21,7 +21,7 @@ PK-PhoneInfoga is a powerful tool designed to provide comprehensive information 
 * `chmod +x PK-PhoneInfoga`
 * `./PK-PhoneInfoga`
 
-## SCREEN SHOTS [Termux]
+## SCREEN SHOTS [Linux]
 ![Screenshot_20231122_095824](https://github.com/demon-xhu/PK-PhoneInfoga/assets/125611055/ca4fdd71-3a25-4ccf-a724-9af69ac53abc)
 
 Feel the power of PK-PhoneInfoga as you effortlessly gather detailed information for any Pakistan phone number.
