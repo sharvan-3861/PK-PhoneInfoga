@@ -27,7 +27,7 @@ PK-PhoneInfoga is a powerful tool designed to provide comprehensive information 
 Feel the power of PK-PhoneInfoga as you effortlessly gather detailed information for any Pakistan phone number.
 
 ## CONNECT WITH US :
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)]
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rb.gy/pio0nl)
 [![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)]([https://rebrand.ly/hckrgroups](https://rb.gy/069tok))
 
 ## WARNING : 
