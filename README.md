@@ -2,11 +2,13 @@
 
 ## ABOUT TOOL :
 
-PK-PhoneInfoga is a powerful tool designed to provide comprehensive information for all Pakistan phone numbers.
+PK-PhoneInfoga is a powerful tool designed to provide comprehensive information for Pakistan phone numbers.
 
 ## AVAILABLE ON :
 
 * Linux
+* Window
+* Mac
 
 ### REQUIREMENTS :
 * internet
