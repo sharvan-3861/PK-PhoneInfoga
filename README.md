@@ -16,7 +16,7 @@ PK-PhoneInfoga is a powerful tool designed to provide comprehensive information 
 
 ## INSTALLATION [Termux/All Linux distro] :
 
-* `git clone https://github.com/demon-xhu/PK-PhoneInfoga.git`
+* `git clone https://github.com/ghost-xhu/PK-PhoneInfoga.git`
 * `cd PK-PhoneInfoga`
 * `chmod +x PK-PhoneInfoga`
 * `./PK-PhoneInfoga`
