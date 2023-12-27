@@ -18,7 +18,7 @@ PK-PhoneInfoga is a powerful tool designed to provide comprehensive information 
 
 * `git clone https://github.com/ghost-xhu/PK-PhoneInfoga.git`
 * `cd PK-PhoneInfoga`
-* `chmod +x PK-PhoneInfoga`
+* `chmod +x pakinfoga.bin`
 * `./pakinfoga.bin`
 
 ## SCREEN SHOTS [Linux]
